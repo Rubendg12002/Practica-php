@@ -26,4 +26,4 @@ Muestra la tabla de multiplicar de un número usando un ciclo for.
    http://localhost/PracticaPHP
 
 ## Autor
-Tu nombre aquí
+Ruben Dominguez - 8-988-2361
